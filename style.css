@@ -83,7 +83,7 @@ body {
 @media (min-width: 768px) and (max-width: 955px) {
     
     .main-img {
-        content: url('images/image-product-desktop.jpg');
+        content: url('image-product-desktop.jpg');
         border-radius: 10px 0 0 10px;
     }
     .container {
@@ -105,7 +105,7 @@ body {
 @media (min-width: 956px) and (max-width: 1024px) {
 
     .main-img {
-        content: url('images/image-product-desktop.jpg');
+        content: url('image-product-desktop.jpg');
         border-radius: 10px 0 0 10px;
         width: 100%;
     }
@@ -131,7 +131,7 @@ body {
 @media (min-width: 1025px) and (max-width: 1500px) {
 
     .main-img {
-        content: url('images/image-product-desktop.jpg');
+        content: url('image-product-desktop.jpg');
         border-radius: 10px 0 0 10px;
         width: 100%;
     }
